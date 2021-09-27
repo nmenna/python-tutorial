@@ -8,10 +8,10 @@
     usando tres ", y comunmente son usados
     como comentarios.
 """
-
+# Esto es un comentario.
 
 ####################################################
-# 1.1 Operaciones Aritméticas
+# 1.1 Operaciones Aritméticas.
 ####################################################
 
 
